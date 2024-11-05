@@ -5,6 +5,8 @@ This project conducts an Exploratory Data Analysis (EDA) on a dataset of popular
 
 Problems Encounter: 
 
+1. •When loading my dataset I encountered a UnicodeDecodeError (10-26-2024):
+
 ```python
 def greet(name):
     return f"Hello, {name}!"
@@ -21,8 +23,7 @@ print(greet("GitHub"))
 
 
 
-Problems Encounter (10/26/2024)
-•	When loading my dataset I encountered a UnicodeDecodeError:
+## Timeline and Changelog
 
 | Date       | Version | Description                                     |
 |:-----------|:-------:|------------------------------------------------:|
