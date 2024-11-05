@@ -24,7 +24,7 @@ sp = pd.read_csv('spotify-2023.csv', encoding='latin1')
 | Date       | Version | Description                                     |
 |:-----------|:-------:|------------------------------------------------:|
 | 2024-10-26 | 1.0.0  | I began strating the code and have progressed upto Basic Descriptive Statistics  |
-| 2024-10-26 | 1.0.1  | I’ve started my README file, but it only includes details on the errors I encountered |
+| 2024-10-26 |        | I’ve started my README file, but it only includes details on the errors I encountered |
 | 2024-10-29 | 1.1.0  | I created a new version of my code after realizing that I had used a hardcoded file path (path.csv) to load my data, which wouldn’t work across different devices. In this version I started coding top performers up until genre and music characteristics |
 | 2024-10-30 | 1.1.1  | I continued developing my code until I reached the advanced analysis stage  |
 | 2024-11-04 | 1.1.2  |I combined the two versions and updated the code for loading my data |
