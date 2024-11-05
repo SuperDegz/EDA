@@ -14,4 +14,10 @@ This project conducts an Exploratory Data Analysis (EDA) on a dataset of popular
 Problems Encounter (10/26/2024)
 •	When loading my dataset I encountered a UnicodeDecodeError:
 
-jupyter notebook notebooks/EDA_Spotify_Tracks.ipynb
+| Date       | Version | Description                                     |
+|:-----------|:-------:|------------------------------------------------:|
+| 2024-11-05 | 1.0.0   | Initial release with basic functionalities.     |
+| 2024-11-10 | 1.1.0   | Added data processing module, improved README.  |
+| 2024-11-15 | 1.1.1   | Fixed bug in data parsing, optimized functions. |
+| 2024-11-20 | 1.2.0   | Enhanced documentation, added usage examples.   |
+
