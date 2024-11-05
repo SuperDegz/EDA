@@ -17,7 +17,7 @@ sp = pd.read_csv('spotify-2023.csv', encoding='latin1')
 
 | Date       | Version | Description                                     |
 |:-----------|:-------:|------------------------------------------------:|
-| 2024-10-26 | 1.0.0  | I began developing the code and have progressed to the point where I’m generating summary statistics |
+| 2024-10-26 | 1.0.0  | I began strating the code and have progressed upto Basic Descriptive Statistics  |
 | 2024-11-10 | 1.0.1  | I’ve started my README file, but it only includes details on the errors I encountered |
 | 2024-11-15 | 1.2  | Fixed bug in data parsing, optimized functions. |
 | 2024-11-20 | 1.3  | Enhanced documentation, added usage examples.   |
