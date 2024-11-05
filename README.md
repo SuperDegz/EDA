@@ -8,10 +8,7 @@ Problems Encounter:
 1. •When loading my dataset I encountered a UnicodeDecodeError (10-26-2024):
 
 ```python
-def greet(name):
-    return f"Hello, {name}!"
-    
-print(greet("GitHub"))
+sp = pd.read_csv('spotify-2023.csv') 
 ```
 
 
